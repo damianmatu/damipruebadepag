@@ -4,4 +4,6 @@ html, body {
 }
 canvas {
   display: block;
-}
+} 
+margin: 40%;
+padding: 20%;
